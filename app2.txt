@@ -3,3 +3,19 @@
 int main(void){
     return 0;
 }
+
+aisdasdasasdaasd
+aisdasdasasdaasd
+dasd
+
+arr{
+    aisdasdas
+
+    aisdasdasasda
+
+    aisdasdas
+
+    aisdasdas
+
+    asd
+}
